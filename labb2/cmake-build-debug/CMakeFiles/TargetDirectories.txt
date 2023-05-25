@@ -1,0 +1,3 @@
+/Users/b/Desktop/p4/algoritmer/labb2/cmake-build-debug/CMakeFiles/labb2.dir
+/Users/b/Desktop/p4/algoritmer/labb2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/b/Desktop/p4/algoritmer/labb2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
