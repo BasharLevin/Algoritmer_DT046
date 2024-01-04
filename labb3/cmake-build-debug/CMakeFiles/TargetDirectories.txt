@@ -1,0 +1,3 @@
+/Users/b/Desktop/År 2👅 /Termin_4/p4/algoritmer/labb3/cmake-build-debug/CMakeFiles/labb3.dir
+/Users/b/Desktop/År 2👅 /Termin_4/p4/algoritmer/labb3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/b/Desktop/År 2👅 /Termin_4/p4/algoritmer/labb3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
